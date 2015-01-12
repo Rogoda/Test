@@ -1,0 +1,15 @@
+dependencies:
+- rpm:
+  - gcc-c++
+  - glibc-devel
+  - automake
+  - autoconf
+  - valgrind
+  - gdb
+  - strace
+devassistant_version: 0.9.3
+original_kwargs:
+  github: !!python/unicode 'rafal'
+  name: !!python/unicode '/home/rafal/test'
+project_type:
+- cpp
